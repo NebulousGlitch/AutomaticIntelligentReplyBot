@@ -8,10 +8,10 @@ import Train
 
 print('This is a twitter bot! KEK \n', flush=True)
 
-CONSUMER_KEY = "PPiJCrYGJsfQgnDbhpEEU7QsQ"
-CONSUMER_SECRET = "IzHjFR2FmKFMCFVcnc0E5ItPaQZCQ7RftbVwKO3jFCAaYhibtc"
-ACCESS_KEY = "1079497682299863042-zkmR16RbeSAWh8v1LHqduQNyJ0ouyn"
-ACCESS_SECRET = "KVFw5BefpIWF8h5ES4q6NRx1gZhTrwcQX7dGo1b4p1Npb"
+CONSUMER_KEY = ""
+CONSUMER_SECRET = ""
+ACCESS_KEY = ""
+ACCESS_SECRET = ""
 
 FILE_NAME = 'last_seen_id.txt'
 
